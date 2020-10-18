@@ -1,2 +1,7 @@
-h1 { color : #6C0B0B; padding: 10px;}
+h1  :root {
+    --font:'Comic Sans MS';
+    
+ color : #6C0B0B; padding: 10px;}
+
+
 
